@@ -5,10 +5,14 @@ export default function App() {
     <div>
       <header>
         <h1>TEMP</h1>
+        <nav>
+          
+        </nav>
       </header>
 
+
         <Outlet>
-          
+
         </Outlet>
 
       <footer>
